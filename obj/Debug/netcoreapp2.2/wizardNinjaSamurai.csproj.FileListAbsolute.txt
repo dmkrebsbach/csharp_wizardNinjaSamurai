@@ -1,0 +1,11 @@
+/home/dmkrebsbach/CodingDojo/CSharp/wizardNinjaSamurai/bin/Debug/netcoreapp2.2/wizardNinjaSamurai.deps.json
+/home/dmkrebsbach/CodingDojo/CSharp/wizardNinjaSamurai/bin/Debug/netcoreapp2.2/wizardNinjaSamurai.runtimeconfig.json
+/home/dmkrebsbach/CodingDojo/CSharp/wizardNinjaSamurai/bin/Debug/netcoreapp2.2/wizardNinjaSamurai.runtimeconfig.dev.json
+/home/dmkrebsbach/CodingDojo/CSharp/wizardNinjaSamurai/bin/Debug/netcoreapp2.2/wizardNinjaSamurai.dll
+/home/dmkrebsbach/CodingDojo/CSharp/wizardNinjaSamurai/bin/Debug/netcoreapp2.2/wizardNinjaSamurai.pdb
+/home/dmkrebsbach/CodingDojo/CSharp/wizardNinjaSamurai/obj/Debug/netcoreapp2.2/wizardNinjaSamurai.csprojAssemblyReference.cache
+/home/dmkrebsbach/CodingDojo/CSharp/wizardNinjaSamurai/obj/Debug/netcoreapp2.2/wizardNinjaSamurai.csproj.CoreCompileInputs.cache
+/home/dmkrebsbach/CodingDojo/CSharp/wizardNinjaSamurai/obj/Debug/netcoreapp2.2/wizardNinjaSamurai.AssemblyInfoInputs.cache
+/home/dmkrebsbach/CodingDojo/CSharp/wizardNinjaSamurai/obj/Debug/netcoreapp2.2/wizardNinjaSamurai.AssemblyInfo.cs
+/home/dmkrebsbach/CodingDojo/CSharp/wizardNinjaSamurai/obj/Debug/netcoreapp2.2/wizardNinjaSamurai.dll
+/home/dmkrebsbach/CodingDojo/CSharp/wizardNinjaSamurai/obj/Debug/netcoreapp2.2/wizardNinjaSamurai.pdb
